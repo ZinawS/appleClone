@@ -184,9 +184,8 @@ img {
 
 /* Mobile Styling - max-width 768px */
 @media (max-width: 768px) {
-  
   .footer-links-wrapper ul {
-    display: none; 
+    display: none;
   }
   .footer-links-wrapper h3 {
     padding: 10px 0;
@@ -226,7 +225,8 @@ img {
   .nav-item {
     text-align: center !important;
     padding: 0;
-    border-bottom: 0px;
+    border-bottom: 01px;
+    /* changed by Endashaw for practice purpose */
   }
 
   .my-apple-wrapper {
@@ -239,7 +239,7 @@ img {
   .copyright {
     margin-top: 10px;
   }
-  
+
   .footer-country {
     margin-top: 10px;
   }
