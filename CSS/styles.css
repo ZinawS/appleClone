@@ -246,6 +246,7 @@ img {
   }
 
   .footer-links-terms {
-    margin-top: 10px;
+    margin-top: 20px;
+    /* changed the margin top form 10 to 20px for testing purpose */
   }
 }
