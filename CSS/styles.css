@@ -68,7 +68,8 @@ img {
 
 /* Specific Styles */
 .macbookpro-wrapper {
-  background-color: #fafafa;
+  background-color: #961d1d;
+  /* changed by netsanet color  */
 }
 
 .iphone11pro-wrapper {
@@ -225,7 +226,7 @@ img {
   .nav-item {
     text-align: center !important;
     padding: 0;
-    border-bottom: 01px;
+    border-bottom: 0px;
     /* changed by Endashaw for practice purpose */
   }
 
