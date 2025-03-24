@@ -81,10 +81,18 @@ img {
   background-image: url(../images/home/iphone11-bg.jpg);
 }
 
+/* chnage new bg */
 .watch-wrapper {
-  background-image: url(../images/home/watch-series-5.jpg);
+  background-image: url(../images/home/myChange.jpg);
 }
 
+.apple-intelligence {
+  display: block;
+  margin-bottom: 100px; /* Adjust for more spacing */
+  text-align: center;
+}
+
+/*   end      */
 .card-wrapper {
   background-image: url(../images/home/apple-card.jpg);
 }
@@ -116,6 +124,9 @@ img {
 
 .macbookpro2-wrapper {
   background-image: url(../images/home/macbook-pro.jpg);
+}
+#myChange {
+  background-color: yellow;
 }
 
 .ipad-wrapper {
