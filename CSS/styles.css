@@ -238,7 +238,7 @@ img {
     text-align: center !important;
     padding: 0;
     border-bottom: 0px;
-    /* changed by Endashaw for practice purpose */
+    
   }
 
   .my-apple-wrapper {
@@ -257,6 +257,7 @@ img {
   }
 
   .footer-links-terms {
-    margin-top: 10px;
+    margin-top: 15px;
+    /* changed the margin top form 10 to 15px for testing purpose */
   }
 }
