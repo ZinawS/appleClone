@@ -50,12 +50,12 @@ img {
 
 .link-wrapper .buy:hover,
 .buy a:hover {
-  color: rgb(38, 233, 233);
+  color: rgb(231, 200, 26);
   /* change color by netsanet */
 }
 
 .link-wrapper .buy:hover {
-  background-color: #ed016f;
+  background-color: #c3d8dc;
   /* change background color */
 }
 
@@ -70,16 +70,21 @@ img {
 
 /* Specific Styles */
 .macbookpro-wrapper {
-  background-color: #fafafa;
+  background-color: #070202;
+  height: 600px;
+  /* change in background color */
+/* add height */
 }
 
 .iphone11pro-wrapper {
-  background-image: url(../images/home/iphone11-pro-bg.jpg);
+  background-image: url(../images/home/iphone\ 16.jpg);
+  /* change to new iphone 16 */
   color: white;
 }
 
 .iphone11-wrapper {
-  background-image: url(../images/home/iphone11-bg.jpg);
+  background-image: url(../images/home/watch..jpg);
+  /* change to new watch */
 }
 
 .watch-wrapper {
