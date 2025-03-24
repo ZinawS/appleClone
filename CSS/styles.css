@@ -50,12 +50,13 @@ img {
 
 .link-wrapper .buy:hover,
 .buy a:hover {
-  color: rgb(172, 22, 22);
+  color: rgb(38, 233, 233);
   /* change color by netsanet */
 }
 
 .link-wrapper .buy:hover {
-  background-color: #0177ed;
+  background-color: #ed016f;
+  /* change background color */
 }
 
 .iphone11pro-wrapper,
