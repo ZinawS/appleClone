@@ -1,8 +1,5 @@
 
 # 🍎 **AppleClone** – A Masterful Recreation of Apple.com  
-<p align="center">  
-  <img src="https://media.giphy.com/media/j5ThEbc7pGrzJkRSZ7/giphy.gif" width="600px"/>  
-</p>  
 
 🚀 **AppleClone** is more than just a replica—it’s a **pixel-perfect homage** to Apple’s iconic website, blending elegance, innovation, and cutting-edge design. Crafted with **modern web technologies**, this project showcases our expertise in **responsive design, captivating animations, and flawless interactivity**.  
 
@@ -11,11 +8,11 @@
 ## 👥 **The Dream Team** ✨  
 A talented squad of developers united to bring this vision to life:  
 
-- 🎯 **Zinaw Shiferaw Mekonnen** – *Project Maestro* 🚀  
-- 💡 **Endashaw Dabi** – *Creative Force* 🔥  
-- 🎨 **Kurabachew Mengistu** – *Design Wizard* ✨  
-- 📱 **Netsanet Abadi** – *Tech Innovator* 💻  
-- 🌟 **Mekdes Kassa** – *Code Alchemist* 🎯  
+- 🎯 **Zinaw Shiferaw Mekonnen** – *Project Manager* 🚀  
+- 💡 **Endashaw Dabi** – *Team Member* 🔥  
+- 🎨 **Kurabachew Mengistu** – *Team Member* ✨  
+- 📱 **Netsanet Abadi** – *Team Member* 💻  
+- 🌟 **Mekdes Kassa** – *Team Member* 🎯  
 
 <p align="center">  
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px"/>  
@@ -32,7 +29,7 @@ A talented squad of developers united to bring this vision to life:
 ✅ **Apple-Inspired UI/UX** – Clean, minimal, and intuitive  
 ✅ **Git & GitHub Workflow** – Seamless team synergy  
 
-🎯 **See It Live:** [🌍 Dive In Now!](https://zinaws1982.github.io/appleClone)  
+🎯 **See It Live:** [🌍 Dive In Now!](https://zinaws.github.io/appleClone)  
 
 ---
 
