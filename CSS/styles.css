@@ -87,10 +87,18 @@ img {
   /* change to new watch */
 }
 
+/* chnage new bg */
 .watch-wrapper {
-  background-image: url(../images/home/watch-series-5.jpg);
+  background-image: url(../images/home/myChange.jpg);
 }
 
+.apple-intelligence {
+  display: block;
+  margin-bottom: 100px; /* Adjust for more spacing */
+  text-align: center;
+}
+
+/*   end      */
 .card-wrapper {
   background-image: url(../images/home/apple-card.jpg);
 }
@@ -123,6 +131,7 @@ img {
 .macbookpro2-wrapper {
   background-image: url(../images/home/macbook-pro.jpg);
 }
+
 
 .ipad-wrapper {
   background-image: url(../images/home/new-ipad.jpg);
@@ -233,7 +242,7 @@ img {
     text-align: center !important;
     padding: 0;
     border-bottom: 0px;
-    /* changed by Endashaw for practice purpose */
+    
   }
 
   .my-apple-wrapper {
