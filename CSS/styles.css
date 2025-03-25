@@ -76,6 +76,17 @@ img {
   /* change in background color */
 /* add height */
 }
+/*  class="container-fluid macbookpro-wrapper horizontal-product text-center pt-5"
+    >
+      <div class="size mt-4">16-inch model</div>
+      <div class="model h1 font-weight-bold">iPhone 16 Pro</div>
+      <div class="motto h3">Hello Apple Intelligence.</div> */
+
+.macbookpro-wrapper .size,
+.macbookpro-wrapper .model ,
+.macbookpro-wrapper .motto{
+  color: white !important;
+}
 
 .iphone11pro-wrapper {
   background-image: url(../images/home/iphone\ 16.jpg);
