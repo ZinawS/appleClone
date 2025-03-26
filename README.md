@@ -8,11 +8,13 @@
 ## 👥 **The Dream Team** ✨  
 A talented squad of developers united to bring this vision to life:  
 
-- 🎯 **Zinaw Shiferaw Mekonnen** – *Project Manager* 🚀  
-- 💡 **Endashaw Dabi** – *Team Member* 🔥  
-- 🎨 **Kurabachew Mengistu** – *Team Member* ✨  
-- 📱 **Netsanet Abadi** – *Team Member* 💻  
-- 🌟 **Mekdes Kassa** – *Team Member* 🎯  
+	•	**Zinaw Shiferaw Mekonnen** – Project Manager 
+	•	**Endashaw Dabi** – Responsible for the footer section 
+	•	**Kurabachew Mengistu** – Responsible for sections four to six of the body ✨
+	•	**Netsanet Abadi** – Responsible for sections one to three of the body 
+	•	**Mekdes Kassa** – Responsible for the header section 
+
+
 
 <p align="center">  
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px"/>  
